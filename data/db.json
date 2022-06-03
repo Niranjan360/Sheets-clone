@@ -1,0 +1,24 @@
+{
+  "StudentDetails": [
+    {
+      "stdName": "Niranjan M ",
+      "gender": "Male",
+      "id": 1
+    },
+    {
+      "stdName": "Karthik BT",
+      "gender": "Male",
+      "id": 2
+    },
+    {
+      "stdName": "Pooja MK",
+      "gender": "Female",
+      "id": 3
+    },
+    {
+      "stdName": "Sumaiya",
+      "gender": "Male",
+      "id": 4
+    }
+  ]
+}
