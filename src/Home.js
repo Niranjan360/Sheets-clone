@@ -1,6 +1,9 @@
 import {useState} from 'react';
+import {useHistory} from 'react-router-dom'
 
 const Home = () => {
+
+    let history = useHistory();
 
     let [stdName , setName] = useState("");
     let [gender , setGender] = useState("");
@@ -18,6 +21,8 @@ const Home = () => {
         })
         .then(()=>{
             alert("data is added");
+            history.push("/sheets");
+
         })
     
     }
