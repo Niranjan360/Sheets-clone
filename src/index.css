@@ -92,7 +92,7 @@ nav h1:hover{
 }
 .home-content form input[type="submit"]
 {
-  width: 600px;
+  width: auto;
   height: 40px;
 }
 label{
