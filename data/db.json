@@ -1,29 +1,132 @@
 {
   "StudentDetails": [
     {
-      "stdName": "Niranjan M ",
+      "stdName": "Niranjan M",
+      "email": "niranjanniru360@gmail.com",
+      "phone": "7619251140",
+      "age": "24",
       "gender": "Male",
       "id": 1
     },
     {
-      "stdName": "Karthik BT",
-      "gender": "Male",
+      "stdName": "Kavya",
+      "email": "kavyamanjunath@gmail.com",
+      "phone": "7829037561",
+      "age": "24",
+      "gender": "Female",
       "id": 2
     },
     {
-      "stdName": "Pooja MK",
+      "stdName": "Ramya",
+      "email": "ramya@gmail.com",
+      "phone": "9740799147",
+      "age": "25",
       "gender": "Female",
       "id": 3
     },
     {
-      "stdName": "Sumaiya",
-      "gender": "Female",
+      "stdName": "sachin kg",
+      "email": "kgsachin@gmail.com",
+      "phone": "9980858653",
+      "age": "29",
+      "gender": "Male",
       "id": 4
     },
     {
-      "stdName": "shwetha",
+      "stdName": "Niranjan M",
+      "email": "niranjanniru360@gmail.com",
+      "phone": "7619251140",
+      "age": "24",
+      "gender": "Male",
+      "id": 1
+    },
+    {
+      "stdName": "Kavya",
+      "email": "kavyamanjunath@gmail.com",
+      "phone": "7829037561",
+      "age": "24",
       "gender": "Female",
-      "id": 5
+      "id": 2
+    },
+    {
+      "stdName": "Ramya",
+      "email": "ramya@gmail.com",
+      "phone": "9740799147",
+      "age": "25",
+      "gender": "Female",
+      "id": 3
+    },
+    {
+      "stdName": "sachin kg",
+      "email": "kgsachin@gmail.com",
+      "phone": "9980858653",
+      "age": "29",
+      "gender": "Male",
+      "id": 4
+    },
+    {
+      "stdName": "Niranjan M",
+      "email": "niranjanniru360@gmail.com",
+      "phone": "7619251140",
+      "age": "24",
+      "gender": "Male",
+      "id": 1
+    },
+    {
+      "stdName": "Kavya",
+      "email": "kavyamanjunath@gmail.com",
+      "phone": "7829037561",
+      "age": "24",
+      "gender": "Female",
+      "id": 2
+    },
+    {
+      "stdName": "Ramya",
+      "email": "ramya@gmail.com",
+      "phone": "9740799147",
+      "age": "25",
+      "gender": "Female",
+      "id": 3
+    },
+    {
+      "stdName": "sachin kg",
+      "email": "kgsachin@gmail.com",
+      "phone": "9980858653",
+      "age": "29",
+      "gender": "Male",
+      "id": 4
+    },
+    {
+      "stdName": "Niranjan M",
+      "email": "niranjanniru360@gmail.com",
+      "phone": "7619251140",
+      "age": "24",
+      "gender": "Male",
+      "id": 1
+    },
+    {
+      "stdName": "Kavya",
+      "email": "kavyamanjunath@gmail.com",
+      "phone": "7829037561",
+      "age": "24",
+      "gender": "Female",
+      "id": 2
+    },
+    {
+      "stdName": "Ramya",
+      "email": "ramya@gmail.com",
+      "phone": "9740799147",
+      "age": "25",
+      "gender": "Female",
+      "id": 3
+    },
+    {
+      "stdName": "sachin kg",
+      "email": "kgsachin@gmail.com",
+      "phone": "9980858653",
+      "age": "29",
+      "gender": "Male",
+      "id": 4
     }
   ]
 }
