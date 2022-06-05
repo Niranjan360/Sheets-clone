@@ -1,5 +1,6 @@
 import {useState} from 'react';
 import {useHistory} from 'react-router-dom'
+import fill from './fill.jpg'
 
 const Home = () => {
 
@@ -58,6 +59,8 @@ const Home = () => {
                     
                     <input type="submit" />    
             </form>
+
+            <img src={fill}/>
         </div>
     );
 }

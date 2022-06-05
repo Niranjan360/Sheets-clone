@@ -25,7 +25,7 @@ const Details = () => {
     }
 
     return ( 
-    <div>
+    <div className="detail-content">
 
         {
             studentData && 

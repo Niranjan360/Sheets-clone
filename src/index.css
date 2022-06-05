@@ -57,6 +57,10 @@ nav h1:hover{
   margin: 10px auto;
   padding: 5px;
   border: solid 2px rgb(219, 238, 254);
+  display: flex;
+}
+.home-content img{
+  width: 340px;
 }
 .home-content form {
   max-width: 600px;
@@ -166,4 +170,11 @@ table td button{
     background-color: rgb(255, 228, 228);
     width: 100%;
   }
+}
+
+.detail-content
+{
+  background-color: aqua;
+  max-width: 700px;
+  margin: auto;
 }
